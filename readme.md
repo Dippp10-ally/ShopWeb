@@ -212,3 +212,31 @@ Vite will print the local dev URL (usually `http://localhost:5173`).
 ## License
 
 This project is primarily for learning and demonstration. Update this section with a specific license (MIT, ISC, etc.) if you plan to distribute or use it commercially.
+
+## ✨ README Improvement Notes
+
+### 📌 Formatting Enhancements Needed
+- Improve heading hierarchy for better readability
+- Ensure consistent spacing between sections
+- Use proper Markdown formatting for code blocks and lists
+- Align all installation and usage steps properly
+
+### 🚀 Suggested Structure Upgrade
+- Introduction
+- Features
+- Tech Stack
+- Installation
+- Usage
+- Project Structure
+- Contribution Guidelines
+- License
+
+### 🛠️ Documentation Improvements
+- Add badges (optional): build, license, contributors
+- Add screenshots for better UI understanding
+- Standardize code blocks for commands
+
+### 🎯 Goal
+Improve onboarding experience for new contributors and users by making README more structured, readable, and professional.
+
+
