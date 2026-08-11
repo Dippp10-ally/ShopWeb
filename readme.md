@@ -212,3 +212,29 @@ Vite will print the local dev URL (usually `http://localhost:5173`).
 ## License
 
 This project is primarily for learning and demonstration. Update this section with a specific license (MIT, ISC, etc.) if you plan to distribute or use it commercially.
+
+## Troubleshooting
+
+### Installation fails
+- Ensure you are using the supported Node.js version.
+- Run `npm install` or `npm ci`.
+- Delete `node_modules` and reinstall dependencies if necessary.
+
+### Environment variables not loading
+- Verify that a `.env` file exists.
+- Ensure all required variables are defined.
+- Restart the development server after making changes.
+
+## FAQ
+
+### How do I start the project?
+Run:
+
+```bash
+npm install
+npm run dev
+```
+
+### How do I report a bug?
+Please open a GitHub issue with reproduction steps and relevant logs.
+
